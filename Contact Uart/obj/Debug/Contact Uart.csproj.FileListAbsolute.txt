@@ -1,0 +1,10 @@
+D:\Code C#\Contact Uart\Contact Uart\bin\Debug\Contact Uart.exe.config
+D:\Code C#\Contact Uart\Contact Uart\bin\Debug\Contact Uart.exe
+D:\Code C#\Contact Uart\Contact Uart\bin\Debug\Contact Uart.pdb
+D:\Code C#\Contact Uart\Contact Uart\obj\Debug\Contact Uart.csproj.AssemblyReference.cache
+D:\Code C#\Contact Uart\Contact Uart\obj\Debug\Contact_Uart.Form1.resources
+D:\Code C#\Contact Uart\Contact Uart\obj\Debug\Contact_Uart.Properties.Resources.resources
+D:\Code C#\Contact Uart\Contact Uart\obj\Debug\Contact Uart.csproj.GenerateResource.cache
+D:\Code C#\Contact Uart\Contact Uart\obj\Debug\Contact Uart.csproj.CoreCompileInputs.cache
+D:\Code C#\Contact Uart\Contact Uart\obj\Debug\Contact Uart.exe
+D:\Code C#\Contact Uart\Contact Uart\obj\Debug\Contact Uart.pdb
